@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Cinzel Bold";
+   src: url("fonts/Cinzel-Bold.eot") format("embedded-opentype"), url("fonts/Cinzel-Bold.otf") format("opentype"), url("fonts/Cinzel-Bold.woff") format("woff");
+   font-weight: bold;
+   font-style: normal;
+}
